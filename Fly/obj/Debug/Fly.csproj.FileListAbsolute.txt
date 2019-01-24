@@ -1,0 +1,6 @@
+E:\准备\Fly\Fly\bin\Debug\Fly.exe.config
+E:\准备\Fly\Fly\bin\Debug\Fly.exe
+E:\准备\Fly\Fly\bin\Debug\Fly.pdb
+E:\准备\Fly\Fly\obj\Debug\Fly.csprojResolveAssemblyReference.cache
+E:\准备\Fly\Fly\obj\Debug\Fly.exe
+E:\准备\Fly\Fly\obj\Debug\Fly.pdb
